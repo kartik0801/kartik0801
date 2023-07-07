@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kartik0801
-- 👀 I’m interested in software development and learn new technologies
+- 👀 I’m interested in software development and learning new technologies
 - 🌱 I’m currently learning frontend and backend 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on frontend and backend both
+- 📫 How to reach me just call my name 
 
 <!---
 kartik0801/kartik0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
